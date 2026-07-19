@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Charles Ayomide</h1>
-<h3 align="center"> A mobile developer, focused on UX Design, building Fun and exciting projects using Flutter.</h3>
+<h3 align="center"> A Mobile Engineer, focused on UX Design, building Fun and exciting projects using Flutter and Swift UI.</h3>
 
-- 🌱 I’m currently learning more about Dart Programming Language
+- 🌱 I’m currently learning more about Swift Programming Language
 - 👯 I’m looking to collaborate on innovative mobile projects, where I get to learn.
-- 🤝 I’m looking for help with Unreal Engine 5
 - 💬 Ask me about App development, I'd be glad to answer.
 - 📫 How to reach me charlesayomide@hotmail.com
 
